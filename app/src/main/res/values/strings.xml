@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">scoreKeeper</string>
+    <string name="reset" >reset</string>
+    <string name="Try" >Try</string>
+    <string name="Conversion" >Conversion</string>
+    <string name="PenaltyGoal" >Penalty Goal</string>
+    <string name="DropGoal" >Drop Goal</string>
+
+
+
+</resources>
